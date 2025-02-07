@@ -1,0 +1,8 @@
+gymnasium
+moviepy
+pygame
+torch
+torchvision
+pytorch-ignite
+tensorboard
+matplotlib
